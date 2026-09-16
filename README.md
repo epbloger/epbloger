@@ -4,7 +4,7 @@
 - 🎯 Junior QA engineer, I strive to develop in software quality assurance
 - 📚 I am studying testing, SQL, and automation
 - 💼 I am looking for opportunities for a Junior QA role
-- 📍 Perm, Russia
+- 📍 St.Petersburg, Russia
 
 ## 🛠 Technologies and skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
