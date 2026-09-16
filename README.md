@@ -12,6 +12,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![QA Tester](https://img.shields.io/badge/QA-Tester-blue?style=for-the-badge)
 ![Manual QA](https://img.shields.io/badge/Manual-QA-orange?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![QA Engineer](https://img.shields.io/badge/QA-Engineer-purple?style=for-the-badge)
 
 ## 📫 Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
