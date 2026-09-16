@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I`m Kirill 👋
 
-<!--
-**epbloger/epbloger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🎯 Junior QA engineer, I strive to develop in software quality assurance
+- 📚 I am studying testing, SQL, and automation
+- 💼 I am looking for opportunities for a Junior QA role
+- 📍 Perm, Russia
 
-Here are some ideas to get you started:
+## 🛠 Technologies and skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=epbloger&show_icons=true&theme=radical)
+
+## 📫 Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eplboger.commercial@gmail.com)
