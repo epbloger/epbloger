@@ -2,7 +2,7 @@
 
 ## About me
 - 🎯 Junior QA engineer, I strive to develop in software quality assurance
-- 📚 I am studying testing, SQL, and automation
+- 📚 I am studying testing, SQL and automation
 - 💼 I am looking for opportunities for a Junior QA role
 - 📍 St.Petersburg, Russia
 
