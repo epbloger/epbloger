@@ -26,7 +26,7 @@
 ## See my projects
 
 <p align="center">
-  <a href="https://github.com/epbloger/PyCalculator"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/calc.jpg"></a>
+  <a href="https://github.com/epbloger/PyCalculator"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/cals.jpg"></a>
   <a href="https://github.com/epbloger/PyRPG"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/pass.jpg"></a>
   <a href="https://github.com/epbloger/PyPersonalAssistant"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/pa.jpg"></a>
 </p>
