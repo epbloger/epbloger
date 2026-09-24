@@ -6,6 +6,14 @@
 - 💼 I`m looking for opportunities for a Junior QA role
 - 📍 St.Petersburg, Russia
 
+## See my projects
+
+<p align="center">
+  <a href="https://github.com/epbloger/PyCalculator"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/cals.jpg"></a>
+  <a href="https://github.com/epbloger/PyRPG"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/pass.jpg"></a>
+  <a href="https://github.com/epbloger/PyPersonalAssistant"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/pa.jpg"></a>
+</p>
+
 ## 💼 Positions
 ![QA Tester](https://img.shields.io/badge/QA-Tester-blue?style=for-the-badge)
 ![Manual QA](https://img.shields.io/badge/Manual-QA-orange?style=for-the-badge&logo=testinglibrary&logoColor=white)
@@ -22,11 +30,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eplboger.commercial@gmail.com)
-
-## See my projects
-
-<p align="center">
-  <a href="https://github.com/epbloger/PyCalculator"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/cals.jpg"></a>
-  <a href="https://github.com/epbloger/PyRPG"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/pass.jpg"></a>
-  <a href="https://github.com/epbloger/PyPersonalAssistant"><img width="24%" src="https://github.com/epbloger/my-images/blob/main/images/pa.jpg"></a>
-</p>
