@@ -20,11 +20,11 @@ I'm Kirill. I build desktop tools, web apps and Unity games, study software test
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/epbloger/MoorkisDino2D"><img src="assets/dino.svg" width="100%" alt="MoorkisDino2D — 2D runner"></a>
-<h3><a href="https://github.com/epbloger/MoorkisDino2D">MoorkisDino2D</a></h3>
-2D dinosaur runner prototype.
-<p><code>C#</code> <code>Unity</code></p>
-<a href="https://github.com/epbloger/MoorkisDino2D">Source code ↗</a>
+<a href="https://github.com/epbloger/zaberi"><img src="assets/zaberi.svg" width="100%" alt="ЗАБЕРИ. — Android order tracker"></a>
+<h3><a href="https://github.com/epbloger/zaberi">ЗАБЕРИ.</a></h3>
+Android app for tracking orders, pickup deadlines, returns and expenses.
+<p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code></p>
+<a href="https://epbloger.github.io/zaberi/">Website ↗</a> · <a href="https://github.com/epbloger/zaberi/tree/release-1.0-dev">Source code ↗</a>
 
 </td>
 <td width="33%" valign="top">
