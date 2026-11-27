@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="85%" alt="Hi, I'm Kirill — QA &amp; software development">
+<img src="assets/profile-header.svg" width="100%" alt="Hi, I'm Kirill — QA &amp; software development">
 
 **Junior QA engineer · Software development · AI-assisted coding**
 
