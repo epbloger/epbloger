@@ -28,11 +28,11 @@ Android app for tracking orders, pickup deadlines, returns and expenses.
 
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/epbloger/AccountingJournalPy"><img src="assets/journal.svg" width="100%" alt="Accounting Journal — desktop ticket tracker"></a>
-<h3><a href="https://github.com/epbloger/AccountingJournalPy">Accounting Journal</a></h3>
-Desktop ticket tracker with themes and backups.
-<p><code>Python</code> <code>PySide6</code></p>
-<a href="https://github.com/epbloger/AccountingJournalPy">Source code ↗</a> · <a href="https://github.com/epbloger/AccountingJournalPy/releases/latest">Download ↗</a>
+<a href="https://github.com/epbloger/trachu"><img src="assets/trachu.svg" width="100%" alt="ТРАЧУ. — personal finance tracker"></a>
+<h3><a href="https://github.com/epbloger/trachu">ТРАЧУ.</a></h3>
+Android app for tracking income, expenses, budgets and savings goals.
+<p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code></p>
+<a href="https://epbloger.github.io/trachu/">Website ↗</a> · <a href="https://github.com/epbloger/trachu">Source code ↗</a>
 
 </td>
 <td width="33%" valign="top">
