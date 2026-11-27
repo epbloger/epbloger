@@ -1,81 +1,77 @@
 <div align="center">
 
-<img src="assets/epbloger-portfolio-banner-v3.svg" width="100%" alt="epbloger — Kirill, QA and software development">
+<img src="assets/moorkis-night-banner.svg" width="100%" alt="MOORKIS — independent developer and founder of Moorkis Development">
 
-**Junior QA Engineer · Independent Developer · Founder & Product Lead at [Moorkis Development](https://github.com/moorkis-development)**
-
-[![Email](https://img.shields.io/badge/Contact_me-2458A6?style=flat-square&logo=gmail&logoColor=white)](mailto:eplboger.commercial@gmail.com)
-[![GitHub](https://img.shields.io/badge/Repositories-192B49?style=flat-square&logo=github&logoColor=white)](https://github.com/epbloger?tab=repositories)
+[![Studio](https://img.shields.io/badge/Moorkis_Development-172744?style=flat-square&logo=github&logoColor=white)](https://github.com/moorkis-development)
+[![Projects](https://img.shields.io/badge/Projects-2458A6?style=flat-square&logo=github&logoColor=white)](https://github.com/epbloger?tab=repositories)
+[![Contact](https://img.shields.io/badge/Contact-23344D?style=flat-square&logo=maildotru&logoColor=white)](mailto:helpmoorkis@yandex.ru)
 
 </div>
 
 ## About me
 
-I'm Kirill, an independent developer and aspiring QA engineer based in Saint Petersburg. I lead Moorkis Development, building practical Android and web apps and taking projects from concept through testing to release.
+I'm **MOORKIS**, an independent developer and founder of [Moorkis Development](https://github.com/moorkis-development), based in Saint Petersburg, Russia.
 
-My focus is software quality, intuitive product design, and AI-assisted development. I also work on desktop tools and Unity games.
+I build practical Android and web applications for everyday life, from the initial concept and interface to implementation, distribution and ongoing improvements. My current projects help people manage purchases, keep track of their finances and discover places to visit.
 
-📍 Saint Petersburg, Russia · Open to Junior QA opportunities.
+I focus on clear interfaces, local-first data storage and useful features that work without mandatory accounts. I use AI-assisted development to prototype ideas and build complete products.
 
-## Featured projects
+## Current projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/epbloger/zaberi"><img src="assets/zaberi.svg" width="100%" alt="ЗАБЕРИ. — Android order tracker"></a>
+<a href="https://epbloger.github.io/zaberi/"><img src="assets/zaberi.svg" width="100%" alt="ЗАБЕРИ. — purchase tracker"></a>
 <h3><a href="https://github.com/epbloger/zaberi">ЗАБЕРИ.</a></h3>
-Android app for tracking orders, pickup deadlines, returns and expenses.
-<p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code></p>
-<a href="https://epbloger.github.io/zaberi/">Website ↗</a> · <a href="https://github.com/epbloger/zaberi/tree/release-1.0-dev">Source code ↗</a>
-
+<p><b>Purchase &amp; order management</b></p>
+Track orders, pickup and return deadlines, refunds, and actual spending across stores.
+<p><code>Kotlin</code> <code>Compose</code> <code>Room</code></p>
+<p><b>Available on Android</b></p>
+<a href="https://www.rustore.ru/catalog/app/ru.epbloger.zaberi">RuStore ↗</a> · <a href="https://epbloger.github.io/zaberi/">Website ↗</a> · <a href="https://github.com/epbloger/zaberi">Repository ↗</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/epbloger/trachu"><img src="assets/trachu.svg" width="100%" alt="ТРАЧУ. — personal finance tracker"></a>
+<a href="https://epbloger.github.io/trachu/"><img src="assets/trachu.svg" width="100%" alt="ТРАЧУ. — personal finance app"></a>
 <h3><a href="https://github.com/epbloger/trachu">ТРАЧУ.</a></h3>
-Android app for tracking income, expenses, budgets and savings goals.
-<p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code></p>
-<a href="https://epbloger.github.io/trachu/">Website ↗</a> · <a href="https://github.com/epbloger/trachu">Source code ↗</a>
-
+<p><b>Personal finance</b></p>
+Manage income, expenses, accounts, budgets, savings goals and debts, with on-device records and backups.
+<p><code>Kotlin</code> <code>Compose</code> <code>Room</code></p>
+<p><b>Android application</b></p>
+<a href="https://epbloger.github.io/trachu/">Website ↗</a> · <a href="https://github.com/epbloger/trachu">Repository ↗</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/epbloger/shodi"><img src="assets/shodi.svg" width="100%" alt="SHODI — city guide and route planner"></a>
-<h3><a href="https://github.com/epbloger/shodi">SHODI / Сходи</a></h3>
-City guide and route planner with offline support.
+<a href="https://epbloger.github.io/shodi/"><img src="assets/shodi.svg" width="100%" alt="Сходи. — city guide"></a>
+<h3><a href="https://github.com/epbloger/shodi">Сходи.</a></h3>
+<p><b>City guide &amp; walk planner</b></p>
+Discover places across Russia and create personal walking itineraries. The downloadable HTML edition works offline.
 <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
-<a href="https://epbloger.github.io/shodi/">Live demo ↗</a> · <a href="https://github.com/epbloger/shodi/releases/latest">Download ↗</a>
-
+<p><b>Available on the web</b></p>
+<a href="https://epbloger.github.io/shodi/">Open app ↗</a> · <a href="https://github.com/epbloger/shodi/releases/latest">Download ↗</a> · <a href="https://github.com/epbloger/shodi">Repository ↗</a>
 </td>
 </tr>
 </table>
 
-## Technologies & tools
+## Development stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-496A80?style=flat-square&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white)
+**Android:** Kotlin · Jetpack Compose · Material 3 · Room · Gradle
 
-**AI tools & agents**
+**Web:** JavaScript · HTML · CSS · Node.js · esbuild
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-24292F?style=flat-square&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+**Infrastructure:** Git · GitHub · GitHub Actions · GitHub Pages · RuStore
+
+**AI-assisted development:** ChatGPT · OpenAI Codex
+
+## Moorkis Development
+
+An independent app studio making everyday tasks easier through accessible, thoughtfully designed software.
+
+[Explore the studio and its applications →](https://github.com/moorkis-development)
 
 ---
 
 <div align="center">
 
-[**Get in touch**](mailto:eplboger.commercial@gmail.com) · [**All repositories**](https://github.com/epbloger?tab=repositories)
+**MOORKIS** · Saint Petersburg, Russia
+
+[Studio](https://github.com/moorkis-development) · [Repositories](https://github.com/epbloger?tab=repositories) · [Contact](mailto:helpmoorkis@yandex.ru)
 
 </div>
