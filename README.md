@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/moorkis-night-banner.svg" width="100%" alt="MOORKIS — independent developer and founder of Moorkis Development">
+<img src="assets/moorkis-rooftop-banner.jpg" width="100%" alt="MOORKIS — independent developer and founder of Moorkis Development">
 
 [![Studio](https://img.shields.io/badge/Moorkis_Development-172744?style=flat-square&logo=github&logoColor=white)](https://github.com/moorkis-development)
 [![Projects](https://img.shields.io/badge/Projects-2458A6?style=flat-square&logo=github&logoColor=white)](https://github.com/epbloger?tab=repositories)
