@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Hi, I'm Kirill — QA &amp; software development">
+<img src="assets/epbloger-portfolio-banner-v3.svg" width="100%" alt="epbloger — Kirill, QA and software development">
 
 **Junior QA engineer · Software development · AI-assisted coding**
 
