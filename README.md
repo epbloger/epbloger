@@ -2,20 +2,22 @@
 
 <img src="assets/epbloger-portfolio-banner-v3.svg" width="100%" alt="epbloger — Kirill, QA and software development">
 
-**Junior QA engineer · Software development · AI-assisted coding**
+**Junior QA Engineer · Independent Developer · Founder & Product Lead at [Moorkis Development](https://github.com/moorkis-development)**
 
-[![Email](https://img.shields.io/badge/Contact_me-347E73?style=flat-square&logo=gmail&logoColor=white)](mailto:eplboger.commercial@gmail.com)
-[![GitHub](https://img.shields.io/badge/Repositories-142D36?style=flat-square&logo=github&logoColor=white)](https://github.com/epbloger?tab=repositories)
+[![Email](https://img.shields.io/badge/Contact_me-2458A6?style=flat-square&logo=gmail&logoColor=white)](mailto:eplboger.commercial@gmail.com)
+[![GitHub](https://img.shields.io/badge/Repositories-192B49?style=flat-square&logo=github&logoColor=white)](https://github.com/epbloger?tab=repositories)
 
 </div>
 
 ## About me
 
-I'm Kirill. I build desktop tools, web apps and Unity games, study software testing and explore AI-assisted development.
+I'm Kirill, an independent developer and aspiring QA engineer based in Saint Petersburg. I lead Moorkis Development, building practical Android and web apps and taking projects from concept through testing to release.
+
+My focus is software quality, intuitive product design, and AI-assisted development. I also work on desktop tools and Unity games.
 
 📍 Saint Petersburg, Russia · Open to Junior QA opportunities.
 
-## See my projects
+## Featured projects
 
 <table>
 <tr>
